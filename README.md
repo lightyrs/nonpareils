@@ -1,4 +1,1 @@
-nonpareils
-==========
-
-Without Equal
+# nonpareils
